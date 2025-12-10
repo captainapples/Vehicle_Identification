@@ -1,0 +1,6 @@
+Metric,Value
+bbox_output_io_u_multi,0.2766436040401459
+bbox_output_loss,0.02469046041369438
+class_output_accuracy,0.7541666626930237
+class_output_loss,0.7350446581840515
+loss,1.0252574682235718

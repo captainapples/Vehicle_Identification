@@ -1,0 +1,22 @@
+Test Results for resnet50v2
+==================================================
+bbox_output_io_u: 0.8580
+bbox_output_loss: 0.0017
+class_output_accuracy: 0.8549
+class_output_loss: 0.4401
+loss: 0.5237
+
+              precision    recall  f1-score   support
+
+     bicycle      0.000     0.000     0.000        15
+         bus      0.051     0.052     0.052        77
+         car      0.619     0.641     0.630       945
+  motorcycle      0.000     0.000     0.000         9
+  pedestrian      0.000     0.000     0.000        19
+       truck      0.224     0.195     0.208       354
+         van      0.000     0.000     0.000        35
+     vehicle      0.022     0.029     0.025        69
+
+    accuracy                          0.447      1523
+   macro avg      0.114     0.115     0.114      1523
+weighted avg      0.440     0.447     0.443      1523

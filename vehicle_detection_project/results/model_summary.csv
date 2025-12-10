@@ -1,0 +1,18 @@
+,Value
+Model Architecture,resnet50v2
+Input Shape,224x224x3
+Total Parameters,"24,748,300"
+Trainable Parameters,"15,627,020"
+Training Images,5824
+Validation Images,1216
+Test Images,1216
+Best Learning Rate,0.001
+Best Batch Size,32
+Epochs Trained,28
+Final Training Loss,0.7840
+Final Validation Loss,1.0711
+Best Validation Loss,1.0424
+Final Training IoU,0.1955
+Final Validation IoU,0.2646
+Best Validation IoU,0.2646
+Test loss,bbox_output_io_u_multi
